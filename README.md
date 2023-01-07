@@ -1,2 +1,4 @@
 ### Hi there 👋
-<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="360" src="https://giphy.com/embed/UPPI3cUlA66jGeiiy1/video" width="480"></iframe></div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
