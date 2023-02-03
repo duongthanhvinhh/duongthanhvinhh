@@ -3,8 +3,8 @@
 </div>
 
 
-Hi everyone, I'm Vinh Duong! 👋 <br>
-I'm a Software Engineer, Blogger, YouTuber<br>
-🔭 I’m currently working on creating video record about Automation Testing<br>
+Hi everyone, I'm Vinh Duong! 👋<br>
+I'm a Software Engineer, Blogger, YouTuber.<br>
+🔭 I’m currently working on creating video record about Automation Testing.<br>
 🌱 I’m currently learning web development (NodeJS, ReactJS).<br>
 💬 Ask me about Selenium, Cypress or any tech related stuff.
