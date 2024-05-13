@@ -8,10 +8,8 @@ I'm a Software Engineer, Blogger, YouTuber.<br>
 💬 Ask me about Selenium, Cypress, or any tech-related stuff.
 </div>
 <br>
-All projects:  <br>
-1. https://foden-d-store-vercel.vercel.app/
+1st projects: https://foden-d-store-vercel.vercel.app/
 <br>
-Relax here -> <a target="_blank" href="https://duongthanhvinhh.github.io/MusicPlayer/index.html">Music</a>
 <br>
 <img src="https://i.imgur.com/UBnZNPN.jpg" width="100%" height="500px"/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
