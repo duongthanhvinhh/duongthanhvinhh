@@ -14,3 +14,5 @@ All projects:  <br>
 Relax here -> <a target="_blank" href="https://duongthanhvinhh.github.io/MusicPlayer/index.html">Music</a>
 <br>
 <img src="https://i.imgur.com/UBnZNPN.jpg" width="100%" height="500px"/>
+
+[![Foden Automation's GitHub stats](https://github-readme-stats.vercel.app/api?username=duongthanhvinhh)](https://github.com/anuraghazra/github-readme-stats)
