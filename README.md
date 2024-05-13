@@ -16,3 +16,5 @@ Relax here -> <a target="_blank" href="https://duongthanhvinhh.github.io/MusicPl
 <img src="https://i.imgur.com/UBnZNPN.jpg" width="100%" height="500px"/>
 
 [![Foden Automation's GitHub stats](https://github-readme-stats.vercel.app/api?username=duongthanhvinhh&show_icons=true&theme=radical)](https://github.com/duongthanhvinhh/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongthanhvinhh&repo=github-readme-stats)](https://github.com/duongthanhvinhh/github-readme-stats)
