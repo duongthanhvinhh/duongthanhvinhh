@@ -8,6 +8,7 @@ I'm a Software Engineer, Blogger, YouTuber.<br>
 💬 Ask me about Selenium, Cypress, or any tech-related stuff.
 </div>
 <br>
+Portfolio: https://foden-automation.vercel.app/
 Projects: https://foden-d-store-vercel.vercel.app/
 <br>
 <br>
