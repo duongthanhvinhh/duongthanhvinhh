@@ -13,9 +13,9 @@ Projects: https://foden-d-store-vercel.vercel.app/
 <br>
 <br>
 <img src="https://i.imgur.com/UBnZNPN.jpg" width="100%" height="500px"/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/duongthanhvinhh/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=duongthanhvinhh&show_icons=true&theme=blue-green" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/duongthanhvinhh/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=duongthanhvinhh&layout=compact&langs_count=8&card_width=320" />
 </a>
