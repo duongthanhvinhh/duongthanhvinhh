@@ -9,6 +9,7 @@ I'm a Software Engineer, Blogger, YouTuber.<br>
 </div>
 <br>
 Portfolio: https://foden-automation.vercel.app/
+<br>
 Projects: https://foden-d-store-vercel.vercel.app/
 <br>
 <br>
