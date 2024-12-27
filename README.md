@@ -3,9 +3,9 @@
 </div>
 <div >
 Hi everyone, I'm Foden Duong! 👋<br>
-I'm a Software Engineer, Blogger, YouTuber.<br>
+I'm an Automation Tester, Blogger, YouTuber.<br>
 🌱 I’m currently learning web development (NodeJS, ReactJS).<br>
-💬 Ask me about Selenium, Cypress, or any tech-related stuff.
+💬 Ask me about Selenium, Java Core, or any tech-related stuff.
 </div>
 <br>
 Portfolio: https://foden-automation.vercel.app/
