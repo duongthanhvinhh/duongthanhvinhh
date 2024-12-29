@@ -1,5 +1,5 @@
 <div id="header" align="left">
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
+<!-- <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/> -->
 </div>
 <div >
 Hi everyone, I'm Foden Duong! 👋<br>
