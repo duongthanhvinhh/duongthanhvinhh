@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" />
   <h1>Hi, I'm Foden Duong 👋</h1>
-  <p><strong>Automation Tester | Blogger | YouTuber</strong></p>
+  <p><strong>Fullstack Tester | Blogger | YouTuber</strong></p>
 </div>
 
 ---
