@@ -6,6 +6,17 @@
 
 ---
 
+📊 **GitHub Stats**
+
+<a href="https://github.com/duongthanhvinhh/github-readme-stats">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=duongthanhvinhh&show_icons=true&theme=blue-green" />
+</a>
+<a href="https://github.com/duongthanhvinhh/convoychat">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=duongthanhvinhh&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+---
+
 💡 **About Me**
 - 🎯 I'm passionate about automation testing, software quality, and sharing knowledge with the community.
 - 💻 Working mainly with **Selenium**, **Java Core**, and **Test Automation Frameworks**.
@@ -22,17 +33,6 @@
 📁 **My Work**
 - 🌐 Portfolio: [foden-automation.vercel.app](https://foden-automation.vercel.app/)
 - 🛍️ Projects: [foden-d-store.vercel.app](https://foden-d-store-vercel.app/)
----
-
-📊 **GitHub Stats**
-
-<a href="https://github.com/duongthanhvinhh/github-readme-stats">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=duongthanhvinhh&show_icons=true&theme=blue-green" />
-</a>
-<a href="https://github.com/duongthanhvinhh/convoychat">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=duongthanhvinhh&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 ---
 
 📫 **Connect With Me**
