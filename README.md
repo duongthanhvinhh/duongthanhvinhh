@@ -27,6 +27,7 @@
 - 🔹 Selenium WebDriver / Cucumber / TestNG / NUnit / Playwright / Rest Assured
 - 🔹 Java Core / C# & OOP / JS/TS
 - 🔹 Automation best practices
+- 🔹 Performance testing: Jmeter
 - 🔹 CI/CD & Integration Testing: Jenkins, GitLab CI,...
 ---
 
