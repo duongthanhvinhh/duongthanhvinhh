@@ -33,7 +33,8 @@
 
 📁 **My Work**
 - 🌐 Portfolio: [foden-automation.vercel.app](https://foden-automation.vercel.app/)
-- 🛍️ Projects: [foden-d-store.vercel.app](https://foden-d-store-vercel.app/)
+- 🛍️ Projects: <br>
+              [foden-d-store.vercel.app](https://foden-d-store-vercel.app/)
 ---
 
 📫 **Connect With Me**
