@@ -34,7 +34,8 @@
 📁 **My Work**
 - 🌐 Portfolio: [foden-automation.vercel.app](https://foden-automation.vercel.app/)
 - 🛍️ Projects: <br>
-              [foden-d-store.vercel.app](https://foden-d-store-vercel.app/)
+              [foden-d-store.vercel.app](https://foden-d-store-vercel.app/) <br>
+              [foden-website-for-testing](https://foden-testing-application.vercel.app/)
 ---
 
 📫 **Connect With Me**
