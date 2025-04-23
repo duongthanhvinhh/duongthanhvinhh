@@ -16,6 +16,14 @@
 </a>
 
 ---
+📁 My TODO/IN-PROGRESS/DONE Tasks
+- Build enterprise framework: Selenium with Java TestNG -> DONE
+- Build enterprise framework: Rest Assured Java TestNG -> TODO (maybe will combine into the Selenium with Java TestNG framework)
+- Build enterprise framework: Selenium with C# NUnit -> 50%
+- Build enterprise framework: Playwright with Typescript -> 50%
+- Build enterprise framework: Cypress with Javascript -> TODO
+- Build enterprise framework: RobotFramework with Python/Pytest -> 10%
+
 
 💡 **About Me**
 - 🎯 I'm passionate about automation testing, software quality, and sharing knowledge with the community.
