@@ -22,7 +22,7 @@
 - Build enterprise framework: Selenium with C# NUnit -> 50%
 - Build enterprise framework: Playwright with Typescript -> 50%
 - Build enterprise framework: Cypress with Javascript -> TODO
-- Build enterprise framework: RobotFramework with Python/Pytest -> 10%
+- Build enterprise framework: Selenium with Python Pytest -> 60%
 - Build enterprise framework: Appium Java Mobile Testing -> 10%
 
 
