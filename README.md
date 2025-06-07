@@ -17,13 +17,12 @@
 
 ---
 📁 My TODO/IN-PROGRESS/DONE Tasks
-- Build enterprise framework: Selenium with Java TestNG -> DONE
-- Build enterprise framework: Rest Assured Java TestNG -> TODO (maybe will combine into the Selenium with Java TestNG framework)
-- Build enterprise framework: Selenium with C# NUnit -> 50%
-- Build enterprise framework: Playwright with Typescript -> 50%
-- Build enterprise framework: Cypress with Javascript -> TODO
-- Build enterprise framework: Selenium with Python Pytest -> 60%
-- Build enterprise framework: Appium Java Mobile Testing -> 10%
+- Build enterprise framework: Selenium-RestAssured-Java-TestNG-E2E-API-> 70%
+- Build enterprise framework: Selenium-C#-NUnit-E2E-API -> 50%
+- Build enterprise framework: Playwright-Typescript-E2E-API -> 50%
+- Build enterprise framework: Cypress-Javascript-E2E-API -> TODO
+- Build enterprise framework: Selenium-Python-Pytest-E2E -> 60%
+- Build enterprise framework: Appium-Java-Mobile-Testing -> 10%
 
 
 💡 **About Me**
