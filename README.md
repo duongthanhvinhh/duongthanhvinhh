@@ -16,10 +16,12 @@
 </a>
 
 ---
-📁 My TODO/IN-PROGRESS/DONE Tasks
+📁 You are looking for an enterprise automation framework, here you are:
+<a href="https://github.com/duongthanhvinhh/FodenEnterprisePlaywrightFramework">EnterpriseFramework (E2E-API) using Playwright-Typescript</a>
+
+
 - Build enterprise framework: Selenium-RestAssured-Java-TestNG-E2E-API-> 70%
 - Build enterprise framework: Selenium-C#-NUnit-E2E-API -> 50%
-- Build enterprise framework: Playwright-Typescript-E2E-API -> 50%
 - Build enterprise framework: Cypress-Javascript-E2E-API -> TODO
 - Build enterprise framework: Selenium-Python-Pytest-E2E -> 60%
 - Build enterprise framework: Appium-Java-Mobile-Testing -> 10%
