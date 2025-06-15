@@ -16,7 +16,7 @@
 </a>
 
 ---
-📁 You are looking for an enterprise automation framework, here you are:<br>
+📁 If you are looking for an enterprise automation framework, here you are:<br>
 - <a href="https://github.com/duongthanhvinhh/FodenEnterprisePlaywrightFramework">EnterpriseFramework (E2E-API) using Playwright-Typescript</a>
 - <a href="https://github.com/duongthanhvinhh/FodenEnterpriseSeleniumRestAssuredFramework">EnterpriseFramework (E2E-API) using Selenium-RestAssured-TestNG-Java</a>
 
