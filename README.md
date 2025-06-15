@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150" />
   <h1>Hi, I'm Foden Duong 👋</h1>
   <p><strong>Fullstack Tester | Blogger | YouTuber</strong></p>
-  <p>You only live once, but if you do it right, once is enough." This saying encourages people to live meaningfully, make the most of life, and pursue what truly matters. It is not merely a call for impulsive actions but also a reminder to live with purpose, responsibility, and to do things that bring true happiness and meaning.</p>
+  <p><strong>"You only live once, but if you do it right, once is enough."</strong> This saying encourages people to live meaningfully, make the most of life, and pursue what truly matters. It is not merely a call for impulsive actions but also a reminder to live with purpose, responsibility, and to do things that bring true happiness and meaning.</p>
 </div>
 
 ---
