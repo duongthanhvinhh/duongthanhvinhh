@@ -4,7 +4,7 @@
   <p><strong>Fullstack Tester | Blogger | YouTuber</strong></p>
   <p><strong>"You only live once, but if you do it right, once is enough."</strong> This saying encourages people to live meaningfully, make the most of life, and pursue what truly matters. It is not merely a call for impulsive actions but also a reminder to live with purpose, responsibility, and to do things that bring true happiness and meaning.</p>
 </div>
-<a href="https://app.daily.dev/foden"><img src="https://api.daily.dev/devcards/v2/KW59j1CcRPkZ0v3Maf6uv.png?type=default&r=5ix" width="356" alt="Foden Duong's Dev Card"/></a>
+<a href="https://app.daily.dev/foden"><img src="https://api.daily.dev/devcards/v2/KW59j1CcRPkZ0v3Maf6uv.png?type=wide&r=5ix" width="652" alt="Foden Duong's Dev Card"/></a> <br>
 ---
 
 📊 **GitHub Stats**
